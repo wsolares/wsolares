@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @wsolares
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python/Excel
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Walter
 - 📫 How to reach me wsolares@crmls.org
 
 <!---
